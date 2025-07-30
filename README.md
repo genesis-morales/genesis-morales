@@ -1,5 +1,4 @@
-# 💫 About Me:
-¡Hey! I´m Génesis Morales<br>
+#  🧚 ¡Hey! I´m Génesis Morales
 I’m a Computer Engineering student passionate about <br>
 software development, automation, and solving complex problems through technology.<br><br>
 I’m currently training as a PHP developer and diving into the <br>
