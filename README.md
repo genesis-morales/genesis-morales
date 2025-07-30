@@ -9,8 +9,7 @@ exciting world of Automated QA Testing.<br>
 - Strong problem-solving and analytical thinking  
 - Clear and empathetic communication  
 - Team collaboration and adaptability  
-- Agile methodologies (Scrum, Kanban)  
-- Writing clean, maintainable code  
+- Agile methodologies (Scrum, Kanban)   
 - Basic UI/UX Design with Figma  
 
 # 💻 Tech Stack
