@@ -1,14 +1,12 @@
 #  🧚 ¡Hey! I´m Génesis Morales
-I’m a Computer Engineering student passionate about <br>
-software development, automation, and solving complex problems through technology.<br><br>
-I’m currently training as a PHP developer and diving into the <br>
-exciting world of Automated QA Testing.<br>
+I’m a Computer Engineering student passionate about software development, automation, and solving complex problems through technology.<br><br>
+I’m currently training as a software developer and diving into the exciting world of Automated QA Testing.<br>
 
 ## 🧠 Skills:
 - Strong problem-solving and analytical thinking  
 - Clear and empathetic communication  
 - Team collaboration and adaptability  
-- Agile methodologies (Scrum, Kanban)   
+- Agile methodologies (Scrum, Kanban)  
 - Basic UI/UX Design with Figma  
 
 # 💻 Tech Stack
